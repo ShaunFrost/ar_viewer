@@ -4,6 +4,8 @@ An AR viewer that displays artificial objects overlaid on images of a real 3D sc
 
 Check the example_result.jpg to see how the resulting cube is placed on the scene.
 
+To checkout COLMAP: https://colmap.github.io/
+
 COLMAP generated files:
 -----------------------
 images.txt -> details about the images taken at various angles at the scene
